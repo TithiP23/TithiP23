@@ -64,8 +64,7 @@ Activities: Designed for **5 seminars** and **3 workshops**
 
 ## 📈 GitHub Stats
 
-![Tithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TithiP23&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TithiP23&layout=compact&theme=tokyonight)  
+![Tithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TithiP23&show_icons=true&theme=tokyonight)   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TithiP23&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
