@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Tithi Paul  
 
 🎓 **B.Sc. in Computer Science and Engineering (CSE)**  
-East West University, Dhaka | Major: Software Engineering | CGPA: 3.48  
+East West University, Dhaka | Major: Software Engineering  
 
-💼 **Intern at Samsung R&D Institute Bangladesh (SRBD)** — SQA Group
+💼 **Intern at Samsung R&D Institute Bangladesh (SRBD)** — QIG Group (Team: SEA)
 
 💡 Passionate about **software development, UI/UX design, and innovative tech solutions**.  
 I love transforming ideas into impactful projects that solve real-life problems.
