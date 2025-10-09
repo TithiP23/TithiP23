@@ -1,53 +1,81 @@
 # 👋 Hi, I'm Tithi Paul  
 
-🎓 **CSE Student at East West University**  
-💼 **Intern at Samsung R&D Institute Bangladesh (SRBD)** — SQA Group  
-💻 Passionate about **Software Testing, UI/UX Design, and Frontend Development**  
-🌱 Currently exploring **Web & Mobile App Development**  
+🎓 **B.Sc. in Computer Science and Engineering (CSE)**  
+East West University, Dhaka | Major: Software Engineering | CGPA: 3.48  
+
+💡 Passionate about **software development, UI/UX design, and innovative tech solutions**.  
+I love transforming ideas into impactful projects that solve real-life problems.
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Java, Python, PHP, JavaScript  
-**Web Technologies:** HTML, CSS, MySQL, Firebase  
-**Mobile:** Android Studio (Java, XML)  
-**Design Tools:** Figma, Canva  
-**Testing & Tools:** Git, GitHub, VS Code, Postman  
+## 🧠 Technical Skills
+
+**Languages:** C, Java, Python, PHP, HTML, CSS, JavaScript  
+**Database:** SQL, MySQL  
+**Frameworks & Tools:** XAMPP, Firebase, VS Code, Apache NetBeans, CodeBlocks  
+**Design Tools:** Figma, Canva, AutoCAD, Microsoft PowerPoint, Microsoft Word  
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Featured Projects
 
-### 🔹 [LostFoundary App](https://github.com/tithipaul/LostFoundary)
-A university lost-and-found mobile app — “Where lost meets found, effortlessly.”  
-**Tech Stack:** Java, Firebase, XML  
-**Features:** User authentication, item reporting, notifications, and profile management.
+### 📸 [Photo-Based Complaint Registration for EWU Campus Issues](#)
+A web app that allows students and faculty to report and track photo-based complaints for faster issue resolution.  
+**Tools:** HTML, CSS, JavaScript, PHP, MySQL  
 
-### 🔹 [Photo-Based Complaint Registration System](https://github.com/tithipaul/PhotoComplaint)
-A web-based complaint system for EWU campus issues.  
-**Tech Stack:** HTML, CSS, PHP, MySQL  
-**Features:** Photo-based complaint submission, role-based login, status tracking, and admin panel.
+### 🔍 [LostFoundary](#)
+An Android app for East West University to help report and locate lost & found items.  
+**Tools:** Android Studio, Figma, Java, Firebase  
+
+### 🌱 [EcoTreasure: Turn Waste Into Wonder](#)
+A UI design for an app promoting sustainability through upcycling and community creativity.  
+**Tools:** Figma  
+
+---
+
+## 🏆 Certificates
+
+- 🥉 **3rd Place** – EWUScC “Search Your Innovation” Contest (2022)  
+- 🧠 **Participant** – IT Olympiad, CSE Fest 2024  
+- 🎨 **4th Place** – EWU Cyber Security Club Logo Design Contest  
+
+---
+
+## 🌐 Publications
+
+- **Machine Learning in Forecasting Energy Recovery from Waste** – *Procedia Computer Science, 2025*  
+- **Automatic Detection of Pumpkin Leaf Diseases Using Transfer Learning** – *IEEE COMPAS, 2024*  
+
+---
+
+## 🤝 Extra Activities
+
+🎨 **Graphic Designer** – EWU Cyber Security Club (Executive Panel 2024–2025)  
+Activities: Designed for **5 seminars** and **3 workshops**  
+
+---
+
+## 💬 Soft Skills
+- Communication  
+- Teamwork  
+- Time Management  
 
 ---
 
 ## 📈 GitHub Stats
-![Tithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tithipaul&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tithipaul&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tithipaul&theme=tokyonight)](https://git.io/streak-stats)
+
+![Tithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TithiP23&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TithiP23&layout=compact&theme=tokyonight)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TithiP23&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
-## 🧩 My Goals
-- 🌟 Build efficient, reliable, and user-friendly software.  
-- 🧠 Strengthen my expertise in **Software Quality Assurance (SQA)**.  
-- 💡 Contribute to meaningful open-source and academic projects.  
+## 📫 Contact Me
+
+📧 **Email:** [tithi200223@gmail.com](mailto:tithi200223@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/tithi-paul-577b872b3](https://www.linkedin.com/in/tithi-paul-577b872b3)  
+💻 **GitHub:** [github.com/TithiP23](https://github.com/TithiP23)  
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-📧 **Email:** your-email@example.com  
-
----
-
-⭐ *“Code with logic, design with empathy, and test with precision.”*
+⭐ *“Code. Create. Connect.”*
