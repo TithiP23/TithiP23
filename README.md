@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Tithi Paul.
 
 <!--
 **TithiP23/TithiP23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
