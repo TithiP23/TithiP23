@@ -37,9 +37,9 @@ A UI design for an app promoting sustainability through upcycling and community 
 
 ## 🏆 Certificates
 
-- 🥉 **3rd Place** – EWUScC “Search Your Innovation” Contest (2022)  
-- 🧠 **Participant** – IT Olympiad, CSE Fest 2024  
-- 🎨 **4th Place** – EWU Cyber Security Club Logo Design Contest  
+- 🥉 **3rd Place** – EWUScC “Search Your Innovation” Contest (2022)
+- 🎨 **4th Place** – EWU Cyber Security Club Logo Design Contest 
+- 🧠 **Participant** – IT Olympiad, CSE Fest 2024    
 
 ---
 
@@ -52,8 +52,7 @@ A UI design for an app promoting sustainability through upcycling and community 
 
 ## 🤝 Extra Activities
 
-🎨 **Graphic Designer** – EWU Cyber Security Club (Executive Panel 2024–2025)  
-Activities: Designed for **5 seminars** and **3 workshops**  
+🎨 **Graphic Designer** – EWU Cyber Security Club (Executive Panel 2024–2025)    
 
 ---
 
