@@ -5,7 +5,7 @@ East West University, Dhaka | Major: Software Engineering
 
 💼 **Intern at Samsung R&D Institute Bangladesh (SRBD)** — QIG Group (Team: SEA)
 
-💡 Passionate about **software development, UI/UX design, and innovative tech solutions**.  
+💡 Passionate about **Software development, Software testing, UI/UX design, and innovative tech solutions**.  
 I love transforming ideas into impactful projects that solve real-life problems.
 
 ---
