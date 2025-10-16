@@ -3,7 +3,6 @@
 🎓 **B.Sc. in Computer Science and Engineering (CSE)**  
 East West University, Dhaka | Major: Software Engineering  
 
-💼 **Intern at Samsung R&D Institute Bangladesh (SRBD)** — QIG Group (Team: SEA)
 
 💡 Passionate about **Software development, Software testing, UI/UX design, and innovative tech solutions**.  
 I love transforming ideas into impactful projects that solve real-life problems.
@@ -19,62 +18,10 @@ I love transforming ideas into impactful projects that solve real-life problems.
 
 ---
 
-## 💼 Featured Projects
-
-### 📸 [Photo-Based Complaint Registration for EWU Campus Issues](#)
-A web app that allows students and faculty to report and track photo-based complaints for faster issue resolution.  
-**Tools:** HTML, CSS, JavaScript, PHP, MySQL  
-
-### 🔍 [LostFoundary](#)
-An Android app for East West University to help report and locate lost & found items.  
-**Tools:** Android Studio, Figma, Java, Firebase  
-
-### 🌱 [EcoTreasure: Turn Waste Into Wonder](#)
-A UI design for an app promoting sustainability through upcycling and community creativity.  
-**Tools:** Figma  
-
----
-
-## 🏆 Certificates
-
-- 🥉 **3rd Place** – EWUScC “Search Your Innovation” Contest (2022)
-- 🎨 **4th Place** – EWU Cyber Security Club Logo Design Contest 
-- 🧠 **Participant** – IT Olympiad, CSE Fest 2024    
-
----
-
-## 🌐 Publications
-
-- **Machine Learning in Forecasting Energy Recovery from Waste** – *Procedia Computer Science, 2025*  
-- **Automatic Detection of Pumpkin Leaf Diseases Using Transfer Learning** – *IEEE COMPAS, 2024*  
-
----
-
-## 🤝 Extra Activities
-
-🎨 **Graphic Designer** – EWU Cyber Security Club (Executive Panel 2024–2025)    
-
----
-
-## 💬 Soft Skills
-- Communication  
-- Teamwork  
-- Time Management  
-
----
-
 ## 📈 GitHub Stats
 
 ![Tithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TithiP23&show_icons=true&theme=tokyonight)   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TithiP23&theme=tokyonight)](https://git.io/streak-stats)
-
----
-
-## 📫 Contact Me
-
-📧 **Email:** [tithi200223@gmail.com](mailto:tithi200223@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/tithi-paul-577b872b3](https://www.linkedin.com/in/tithi-paul-577b872b3)  
-💻 **GitHub:** [github.com/TithiP23](https://github.com/TithiP23)  
 
 ---
 
