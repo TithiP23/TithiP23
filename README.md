@@ -1,56 +1,67 @@
-👋 Hi, I'm Tithi Paul
+# 👋 Hi, I'm Tithi Paul
 
-🎓 B.Sc. in Computer Science and Engineering (CSE)  
-East West University, Dhaka | Major: Software Engineering  
+**B.Sc. in Computer Science & Engineering (CSE)**  
+East West University, Dhaka  
+Major: Software Engineering  
 
-💡 Passionate about Software development, Software testing, UI/UX design, and innovative tech solutions.  
-I love transforming ideas into impactful projects that solve real-life problems.
+---
+
+## 💼 Profile
+Motivated Computer Science student with a strong interest in **software development, software testing, and IT systems**.  
+
+Focused on building reliable applications, improving software quality, and developing practical solutions for real-world problems.
 
 ---
 
 ## 🧠 Technical Skills
 
-Languages: C, Java, Python, PHP, HTML, CSS, JavaScript  
-Database: SQL, MySQL  
-Frameworks & Tools: XAMPP, Firebase, VS Code, Apache NetBeans, CodeBlocks  
-Design Tools: Figma, Canva, AutoCAD, Microsoft PowerPoint, Microsoft Word  
+### 💻 Programming & Development
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
-
-## 📊 Skill Proficiency (Animated)
-
-### 💻 Development
-![Development](https://progress-bar.dev/70/?title=Development&width=500)
-
-### 🧪 Software Testing
-![Testing](https://progress-bar.dev/60/?title=Software%20Testing&width=500)
-
-### ⚙️ IT & Tools
-![IT](https://progress-bar.dev/60/?title=IT%20Tools&width=500)
 
 ### 🗄️ Database
-![Database](https://progress-bar.dev/60/?title=Database&width=500)
-
-### 🎨 UI/UX Design
-![Design](https://progress-bar.dev/65/?title=UI/UX&width=500)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
 
 ---
 
-## ⚡ Tech Stack (Quick View)
-
-![C](https://img.shields.io/badge/C-blue?style=flat)
-![Java](https://img.shields.io/badge/Java-orange?style=flat)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat)
-![PHP](https://img.shields.io/badge/PHP-purple?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat)
-![Figma](https://img.shields.io/badge/Figma-pink?style=flat)
+### ⚙️ Tools & Technologies
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
+![CodeBlocks](https://img.shields.io/badge/CodeBlocks-000000?style=flat-square)
 
 ---
 
-## 📊 GitHub Stats
+### 🎨 Design & Productivity
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square)
+![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 
-![Tithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TithiP23&show_icons=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TithiP23&layout=compact)
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TithiP23&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TithiP23&layout=compact&hide_border=true)
+
+---
+
+## 📫 Contact
+Email: your-email@example.com  
+LinkedIn: your-linkedin-link  
+
+---
+
+_“Build. Test. Improve.”_
