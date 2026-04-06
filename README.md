@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Tithi Paul
 
 **B.Sc. in Computer Science & Engineering (CSE)**  
-East West University, Dhaka  
-Major: Software Engineering  
+East West University, Dhaka  |  Major: Software Engineering  
 
 ---
 
@@ -54,13 +53,10 @@ Focused on building reliable applications, improving software quality, and devel
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TithiP23&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TithiP23&layout=compact&hide_border=true)
-
 ---
 
 ## 📫 Contact
-Email: your-email@example.com  
-LinkedIn: your-linkedin-link  
+Email: tithi200223@gmail.com   
 
 ---
 
