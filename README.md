@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tithi Paul
 
 **B.Sc. in Computer Science & Engineering (CSE)**  
-East West University, Dhaka  |  Major: Software Engineering  
+East West University, Dhaka  |  Major: Software Engineering  |  CGPA: 3.53
 
 ---
 
@@ -46,12 +46,6 @@ Focused on building reliable applications, improving software quality, and devel
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square)
 ![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
-
----
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TithiP23&show_icons=true&hide_border=true)
 
 ---
 
